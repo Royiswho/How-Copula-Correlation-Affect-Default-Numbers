@@ -1,4 +1,4 @@
-# How Copula Correlation Affect Default Numbers ?
+# How Copula Correlation Affect Default Numbers?
  
 ### author: Yi Rong
 ### date: 03/21/21
